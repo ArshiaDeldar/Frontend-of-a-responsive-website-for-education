@@ -1,1 +1,0 @@
-# Frontend-of-a-responsive-website-for-education
